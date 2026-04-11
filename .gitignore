@@ -1,0 +1,32 @@
+# Environment variables
+.env
+
+
+# Node/React
+node_modules/
+build/
+dist/
+.npm/
+
+# Python/Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+db.sqlite3
+*.log
+.venv
+
+# Deep Learning / Datasets / Models
+dataset_split/
+training/*.keras
+training/*.pth
+training/*.h5
+training/logs/
+
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
