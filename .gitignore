@@ -18,11 +18,11 @@ db.sqlite3
 .venv
 
 # Deep Learning / Datasets / Models
-dataset_split/
-training/*.keras
-training/*.pth
-training/*.h5
-training/logs/
+# dataset_split/
+# training/*.keras
+# training/*.pth
+# training/*.h5
+# training/logs/
 
 
 # IDE / OS
